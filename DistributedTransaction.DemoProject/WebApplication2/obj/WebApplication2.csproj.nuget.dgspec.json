@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\WebApplication2\\WebApplication2.csproj": {}
+  },
+  "projects": {
+    "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\WebApplication2\\WebApplication2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\WebApplication2\\WebApplication2.csproj",
+        "projectName": "WebApplication2",
+        "projectPath": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\WebApplication2\\WebApplication2.csproj",
+        "packagesPath": "C:\\Users\\wangm\\.nuget\\packages\\",
+        "outputPath": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\WebApplication2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wangm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost:50561/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj": {
+                "projectPath": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "DotNetCore.CAP.Dashboard": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "DotNetCore.CAP.MongoDB": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "DotNetCore.CAP.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "DotNetCore.CAP.SqlServer": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+        "projectName": "Zhaoxi.DistributedTransaction.EFModel",
+        "projectPath": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+        "packagesPath": "C:\\Users\\wangm\\.nuget\\packages\\",
+        "outputPath": "D:\\朝夕\\架构班\\Architect02Course019DistributedTransaction-2\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wangm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost:50561/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "DotNetCore.CAP.Dashboard": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "DotNetCore.CAP.MongoDB": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "DotNetCore.CAP.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

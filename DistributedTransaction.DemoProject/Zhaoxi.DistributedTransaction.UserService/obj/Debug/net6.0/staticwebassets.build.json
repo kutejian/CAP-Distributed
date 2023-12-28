@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "otiPLvoO5zSLTS/nwr6LJniteELB5RL/Syi7gt68SFg=",
+  "Source": "Zhaoxi.DistributedTransaction.UserService",
+  "BasePath": "_content/Zhaoxi.DistributedTransaction.UserService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

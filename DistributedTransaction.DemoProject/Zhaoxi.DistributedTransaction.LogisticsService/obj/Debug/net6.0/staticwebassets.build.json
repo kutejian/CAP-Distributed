@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R9nNixZBBz/0EZE5zXOZ3gWTyTVDDQMt28Y9ozvWdeQ=",
+  "Source": "Zhaoxi.DistributedTransaction.LogisticsService",
+  "BasePath": "_content/Zhaoxi.DistributedTransaction.LogisticsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

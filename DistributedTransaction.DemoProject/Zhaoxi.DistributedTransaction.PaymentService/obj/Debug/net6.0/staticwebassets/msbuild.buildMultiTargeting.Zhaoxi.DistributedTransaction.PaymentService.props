@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zhaoxi.DistributedTransaction.PaymentService.props" />
+</Project>

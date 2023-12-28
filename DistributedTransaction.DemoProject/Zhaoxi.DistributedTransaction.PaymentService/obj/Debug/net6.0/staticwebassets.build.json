@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RgK98y0gaNh7h8XXLWoccAilEL1VntAX0SGIojAvRZY=",
+  "Source": "Zhaoxi.DistributedTransaction.PaymentService",
+  "BasePath": "_content/Zhaoxi.DistributedTransaction.PaymentService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

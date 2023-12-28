@@ -1,0 +1,12 @@
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\bin\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.deps.json
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\bin\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\bin\Debug\net5.0\ref\Zhaoxi.DistributedTransaction.Utility.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\bin\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.pdb
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.AssemblyInfoInputs.cache
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.AssemblyInfo.cs
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.csproj.CoreCompileInputs.cache
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\ref\Zhaoxi.DistributedTransaction.Utility.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.pdb
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.Utility.csproj.AssemblyReference.cache

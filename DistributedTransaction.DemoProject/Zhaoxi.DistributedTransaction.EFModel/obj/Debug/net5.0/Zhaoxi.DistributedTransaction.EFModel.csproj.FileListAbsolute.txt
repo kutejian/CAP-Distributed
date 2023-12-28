@@ -1,0 +1,12 @@
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.deps.json
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\net5.0\ref\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.pdb
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.AssemblyInfoInputs.cache
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.AssemblyInfo.cs
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.csproj.CoreCompileInputs.cache
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\ref\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.pdb
+D:\zhaoxi\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\net5.0\Zhaoxi.DistributedTransaction.EFModel.csproj.AssemblyReference.cache

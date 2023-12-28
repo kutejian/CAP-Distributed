@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RoFtH8nNimpYJS0t0BsET1Bjdl83ospvBXEMXXte2fE=",
+  "Source": "Zhaoxi.DistributedTransaction.StorageService",
+  "BasePath": "_content/Zhaoxi.DistributedTransaction.StorageService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

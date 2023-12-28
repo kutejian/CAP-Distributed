@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LVd8aQCgwEramUBPhIlWOr5A4JZC95I4EoAFlP6fAZA=",
+  "Source": "Zhaoxi.DistributedTransaction.OrderService",
+  "BasePath": "_content/Zhaoxi.DistributedTransaction.OrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
